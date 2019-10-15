@@ -5,6 +5,7 @@ describe('Dinosaur', function() {
 
   let dinosaur;
 
+
   beforeEach(function () {
     dinosaur = new Dinosaur('t-rex', 'carnivore', 50);
   });
